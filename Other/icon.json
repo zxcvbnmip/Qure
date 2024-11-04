@@ -458,8 +458,12 @@
             "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/EU.png"
         },
         {
+            "name": "EH.png",
+            "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/EH.png"
+        },
+        {
             "name": "European_Union.png",
-            "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/European_Union.png"
+            "url": "https://raw.githubusercontent.com/zxcvbnmip/Qure/master/IconSet/Color/European_Union.png"
         },
         {
             "name": "Europe_Map.png",
